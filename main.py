@@ -8,7 +8,7 @@
 from nltk.corpus import words
 import random
 from termcolor import colored
-import time
+
 
 wordList = []
 for i in words.words():
